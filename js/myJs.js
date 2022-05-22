@@ -1,9 +1,10 @@
 const textConfig = {
-  text1: "He luu bạn dà!!",
-  text2: "Tui có này cho bạn dà coi nekkk, coi với tâm trạng vui vẻ nhee",
-  text3: "Tui chúc bạn hết F1 để tiếp tục về đội F.A chung dí tui =)) ",
-  text4: "Đùa thui chứ mong bạn hết F1 để vào còn chỉ bài tuii. Mà cái Page này đẹp hông :v",
+  text1: "He luu Ngọc Châu!!",
+  text2: "Tui có điều này muốn bạn coi nekkk, coi với tâm trạng vui vẻ nhee",
+  text3: "DuyAnh yêu Châu nhiều lắm, nghe nó dị dị nhưng đó là sự thật :?",
+  text4: "Tui xin lỗi đã làm cho Châu buồn và thất vọng nhưng mà hãy cho tui cơ hội, tui sẽ chứng minh tình yêu mình dành cho Châu ",
   text5: "Hong bé ưi!!",
+  text00: "Hãy tha thứ cho DuyAnh lần này nha <3"
   text6: "Toyy thích nó lắmm <3",
   text7: "lí do cậu thích đi :vvvv",
   text8: "Gửi cho tớ <3",
@@ -27,6 +28,7 @@ $(document).ready(function () {
 
   $("#text3").html(textConfig.text3);
   $("#text4").html(textConfig.text4);
+  $("#text00").html(textConfig.text00);
   $("#no").html(textConfig.text5);
   $("#yes").html(textConfig.text6);
 
