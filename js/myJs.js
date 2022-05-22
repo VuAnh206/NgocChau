@@ -4,7 +4,6 @@ const textConfig = {
   text3: "DuyAnh yêu Châu nhiều lắm, nghe nó dị dị nhưng đó là sự thật :?",
   text4: "Tui xin lỗi đã làm cho Châu buồn và thất vọng nhưng mà hãy cho tui cơ hội, tui sẽ chứng minh tình yêu mình dành cho Châu ",
   text5: "Hong bé ưi!!",
-  text00: "Hãy tha thứ cho DuyAnh lần này nha <3"
   text6: "Toyy thích nó lắmm <3",
   text7: "lí do cậu thích đi :vvvv",
   text8: "Gửi cho tớ <3",
@@ -28,7 +27,6 @@ $(document).ready(function () {
 
   $("#text3").html(textConfig.text3);
   $("#text4").html(textConfig.text4);
-  $("#text00").html(textConfig.text00);
   $("#no").html(textConfig.text5);
   $("#yes").html(textConfig.text6);
 
@@ -140,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/link.nek.hack.di/";
+            window.location = "https://www.facebook.com/link.nek.copy.di.em.iu/";
           },
         });
       }
