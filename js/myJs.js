@@ -2,15 +2,15 @@ const textConfig = {
   text1: "He luu Ngọc Châu!!",
   text2: "Tui có điều này muốn bạn coi nekkk, coi với tâm trạng vui vẻ nhee",
   text3: "DuyAnh yêu Châu nhiều lắm, nghe nó dị dị nhưng đó là sự thật :?",
-  text4: "Tui xin lỗi đã làm cho Châu buồn và thất vọng nhưng mà hãy cho tui cơ hội, tui sẽ chứng minh tình yêu mình dành cho Châu ",
+  text4: "Tui xin lỗi đã làm cho Châu buồn và thất vọng nhưng mà hãy cho tui cơ hội, tui sẽ chứng minh tình yêu mình dành cho Châu. Châu tha lỗi cho tui không? ._.  ",
   text5: "Hong bé ưi!!",
-  text6: "Toyy thích nó lắmm <3",
-  text7: "lí do cậu thích đi :vvvv",
-  text8: "Gửi cho tớ <3",
+  text6: "Toyy tha lỗi DuyAnh <3",
+  text7: "lí do Châu tha lỗi đi :vvvv",
+  text8: "Gửi cho tui <3",
   text9: "Hmmm vì cậu tốt bụng vlllll",
   text10: "Tuii biết mà ^^ cảm ơn cậu ",
   text11:
-    "Nhớ mai mốt vào là phải chỉ bài tuii á nhaa :v Còn giờ thì tui đi ngủ :>",
+    "Nhớ tha lỗi cho tuii ra nha đừng dận nữa ^^ ",
   text12: "Okii lunn <3",
 };
 
